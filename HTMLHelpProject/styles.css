@@ -1,0 +1,44 @@
+p {
+  margin: 0px;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt;
+  padding-left: 0pt;
+  text-indent: 0pt;
+  text-align: left;
+  line-height: normal;
+  font-family: 'Times New Roman';
+  font-size: 12pt;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+}
+.ts0 {
+  font-family: Arial;
+  font-size: 16pt;
+  font-weight: bold;
+}
+.ts1 {
+  font-family: Arial;
+  font-size: 14pt;
+  font-weight: bold;
+  font-style: italic;
+}
+.ts2 {
+  font-family: Calibri;
+  color: Black;
+}
+.ts3 {
+  font-family: Calibri;
+  color: Red;
+}
+.ps0 {
+  text-align: center;
+}
+.ps1 {
+  padding-bottom: 10pt;
+  padding-left: 36pt;
+  text-align: center;
+  line-height: 115%;
+}

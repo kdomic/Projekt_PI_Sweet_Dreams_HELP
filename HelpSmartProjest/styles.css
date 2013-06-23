@@ -1,0 +1,29 @@
+p {
+  margin: 0px;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt;
+  padding-left: 0pt;
+  text-indent: 0pt;
+  text-align: left;
+  line-height: normal;
+  font-family: 'Times New Roman';
+  font-size: 12pt;
+  font-weight: normal;
+  font-style: normal;
+  text-decoration: none;
+  text-transform: none;
+}
+.ts0 {
+  font-family: Arial;
+  font-size: 16pt;
+  font-weight: bold;
+}
+.ps0 {
+  font-family: 'Courier New';
+  font-size: 10pt;
+}
+.ps1 {
+  padding-left: 1.27cm;
+  text-indent: -0.64cm;
+}
